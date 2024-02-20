@@ -17,7 +17,7 @@ either manually compile it using gcc or use the included makefile and use "make 
 
 • Instructions for running your programs/scripts
 
-Use as you would normally use a shell. 
+Use as you would normally use a shell though i did not get piping functionality to work 
 
 • Any challenges you encountered along the way
 
